@@ -1,0 +1,12 @@
+html{
+    background-image: url("https://images.pexels.com/photos/10954124/pexels-photo-10954124.jpeg?cs=srgb&dl=pexels-mali-maeder-10954124.jpg&fm=jpg");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 100%;
+}
+
+.card-item {
+    background: rgb(119 159 179 / 64%);
+    border: 1px solid white;
+}
